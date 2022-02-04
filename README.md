@@ -5,16 +5,16 @@ It's based on [this video](https://www.youtube.com/watch?v=BjoM9oKOAKY&list=LL&i
 
 It doesn't have any controls yet, but you can tweak the values in the js codes as commented.
 
-some of the interesting animations produced:
+some of the interesting animations produced(speeded-up):
 
+![dmt](videos/1.gif)
+![dmt](videos/2.gif)
+![dmt](videos/3.gif)
+![dmt](videos/4.gif)
+![netflix](videos/5.gif)
 
+Vector flow field:
 
+![](videos/6.gif)
 
-
-
-
-
-
-can be used as stream backgrounds
-
-
+can be used as stream/website backgrounds etc.
