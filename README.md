@@ -1,23 +1,26 @@
-# [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise) [Flow Field](https://en.wikipedia.org/wiki/Vector_field)
+# Perlin noise flow field
 
 Uses the [p5.js library](https://p5js.org)
 
-It's based on [this video](https://www.youtube.com/watch?v=BjoM9oKOAKY&list=LL&index=12) by [Daniel Shiffman](https://twitter.com/shiffman). 
+Thanks to [Daniel Shiffman](https://twitter.com/shiffman) for [this](https://www.youtube.com/watch?v=BjoM9oKOAKY&list=LL&index=12) amazing video.
 
-It doesn't have any controls yet, but you can tweak the values in the js codes as commented.
+I've made comments in the code where the values can be tweaked and what it will do.
 
-some of the interesting animations produced(speeded-up):
+Some of the interesting animations produced(sped-up):
 
-![dmt](videos/1.gif)
-![dmt](videos/2.gif)
-![dmt](videos/3.gif)
-![dmt](videos/4.gif)
+![noise](videos/1.gif)
+![noise](videos/2.gif)
+![noise](videos/3.gif)
+![noise](videos/4.gif)
 ![netflix](videos/5.gif)
 
 Vector flow field:
 
 ![](videos/6.gif)
 
-can be used as stream/website backgrounds etc.
+Potential uses:
+
+* Background for streams / websites
+* Billboards for catching people's attention
 
 ###### from chaos, comes order
