@@ -2,7 +2,7 @@
 
 Uses the [p5.js library](https://p5js.org)
 
-Thanks to [Daniel Shiffman](https://twitter.com/shiffman) for [this](https://www.youtube.com/watch?v=BjoM9oKOAKY&list=LL&index=12) amazing video.
+Thanks to [Daniel Shiffman](https://twitter.com/shiffman) for [this](https://www.youtube.com/watch?v=BjoM9oKOAKY) amazing video.
 
 I've made comments in the code where the values can be tweaked and what it will do.
 
